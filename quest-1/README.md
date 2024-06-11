@@ -2,6 +2,8 @@
 
 📘 Write the code to mint yourself an NFT that will represent your pirate ship.
 
+test git
+
 Throughout the bootcamp, we’ll customize this NFT, use it to build other things, and ultimately you’ll battle other NFTs on the high seas.
 
 ## Workshop Day 1: Solana Basics
