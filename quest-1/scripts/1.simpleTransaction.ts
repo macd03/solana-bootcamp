@@ -7,7 +7,7 @@
 import { payer, connection } from "@/lib/vars";
 import { explorerURL, printConsoleSeparator } from "@/lib/helpers";
 
-//
+// teste
 import {
   Keypair,
   LAMPORTS_PER_SOL,
